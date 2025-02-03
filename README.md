@@ -1,4 +1,7 @@
 # Data Analytics with Pandas and Visualization in Google Colab
+## Ссылки
+
+[File Untitled6.ipynb](https://github.com/podko-va/data_analytics/blob/main/Untitled6.ipynb)
 
 ## Overview
 This project is a **Google Colab notebook** that demonstrates **data analytics and visualization** using the California housing dataset (`california_housing_train.csv`). The notebook utilizes `pandas`, `matplotlib`, and `seaborn` to explore dependencies, trends, and correlations in the dataset.
